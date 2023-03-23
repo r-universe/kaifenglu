@@ -3,8 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "eventPred"]
+	path = eventPred
+	url = https://github.com/cran/eventPred
+	shallow = true
+	registered = true
 [submodule "lrstat"]
 	path = lrstat
 	url = https://github.com/kaifenglu/lrstat
+	shallow = true
+	registered = true
+[submodule "tmvtnsim"]
+	path = tmvtnsim
+	url = https://github.com/cran/tmvtnsim
 	shallow = true
 	registered = true
