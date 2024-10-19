@@ -16,4 +16,4 @@
 	url = https://github.com/cran/tmvtnsim
 [submodule "trtswitch"]
 	path = trtswitch
-	url = https://github.com/cran/trtswitch
+	url = https://github.com/kaifenglu/trtswitch
